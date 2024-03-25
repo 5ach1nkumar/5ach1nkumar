@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5ach1nkumar&label=Profile%20views&color=0e75b6&style=flat" alt="5ach1nkumar" /> </p>
 
-- 🔭 I’m currently working on **Stock Price prediction**
+-   I'm currently working for **Carelon Global Solution**
+- 🔭 I’m currently working on **ETL Projects**
 
 - 🌱 I’m currently learning **Web Development, Machine learning**
 
-- 💬 Ask me about **C/C++,SQL**
+- 💬 Ask me about **C/C++,JAVA,SQL,Talend**
 
 - 📫 How to reach me **sachinkumar97850@gmail.com**
 
